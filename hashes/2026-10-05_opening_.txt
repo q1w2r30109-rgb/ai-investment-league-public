@@ -1,0 +1,7 @@
+# AI Investment League opening 2026-10-05 
+# published_at 2026-10-04T19:18:01+09:00
+a7f9a6aee3ce3b04790fd26e56c9985cab7098fdeae3d56c3208e99dba56974b  decisions/2026-10-05/opening/Codex.json  on_time=True
+ed768d2e92eb88d5c937e7692a73366733e054b3cc1bd71264c768ef4b6ece7b  decisions/2026-10-05/opening/Claude_Code.json  on_time=True
+925059dbacf3f3df9a1564ebd512cc95a9740f5f364c17a37f0d1d03317dbeb2  decisions/2026-10-05/opening/Grok.json  on_time=True
+259665761d7f44c88566cd57ed82a06c2a2efbe3e8ceec8a78209bad7cc188ab  decisions/2026-10-05/opening/Gemini.json  on_time=True
+combined e8bc4bf962677a6a8e242d9feac51a0852f2ef52c11387c6d93b02713b19a936
