@@ -1,0 +1,7 @@
+# AI Investment League daily 2026-10-15 JP
+# published_at 2026-10-15T06:48:27+09:00
+f72e4b2fb7348996bc46ebbe77e3da8da49b33c7f2641e184c9a6ec5f889e850  decisions/2026-10-15/JP/Codex.json  on_time=True
+bb9954838e85d33220dd2212503f9a21f9ebcb9fd5a5824ec516726d177baed3  decisions/2026-10-15/JP/Claude_Code.json  on_time=True
+2d42f0cbf46be939d4b02082c088258a0595d5956f2f45899610a568c4965f94  decisions/2026-10-15/JP/Grok.json  on_time=True
+bb6bf9f08605290fa785e6f23427b125d86afdf83eec02c1a6f4d935677f6764  decisions/2026-10-15/JP/Gemini.json  on_time=True
+combined f2bc82eab7c5853bce856b49a1c5d78bf39c82f590ee7e93e2186795c289c62b
