@@ -1,0 +1,7 @@
+# AI Investment League daily 2026-11-03 US
+# published_at 2026-11-03T21:49:18+09:00
+f139a8f0ebab88dfb9fff6f426318f1415b4684261462c3c2d23aa0e3cd24465  decisions/2026-11-03/US/Codex.json  on_time=True
+3eae2c612d7769d3606d743799885b2fd30aca296b0b1f6f9f74bdf65a2ff052  decisions/2026-11-03/US/Claude_Code.json  on_time=True
+f846a5c1b66739e21c63db56da35361072f2ef0c415215d88b2b55ee01e5f8a6  decisions/2026-11-03/US/Grok.json  on_time=True
+573258a65b50874af2a462c38549a13f444822ed6f418f0eed83620bab0ef970  decisions/2026-11-03/US/Gemini.json  on_time=True
+combined ec33460c4eef26f8e620f2fd0838990a6078659ebc870b90144a74afeffcf4d4
