@@ -1,0 +1,2 @@
+# AI Investment League 総合 2026-11-16 JP
+7598079c4ffcc0a710b37b6c04202c5f119e6fcd791a6aafa5cc284b84c1d129  decisions/2026-11-16/JP/総合.json  on_time=True
