@@ -1,0 +1,2 @@
+# AI Investment League 総合 2026-11-20 US
+fd1dc08744a5aaa121bbec3af2045dcc08fcf9441692914134765b5f49500d66  decisions/2026-11-20/US/総合.json  on_time=True
