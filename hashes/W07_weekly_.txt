@@ -1,0 +1,7 @@
+# AI Investment League weekly W07 
+# published_at 2026-11-22T01:31:10+09:00
+008b09b35c764457a7ca6fd865591b62dbfe805d9e964286382df7d53ce826a3  weekly/W07/Codex.json  on_time=True
+9a6f70a1ead603dcc180fce6bd01a87592e30a0bd1803eb2997d261c5a5d7f62  weekly/W07/Claude_Code.json  on_time=True
+599ed3503bfa890d968e0836cd2bf33eeb73fb17322ebf7c9da8964e02e04d48  weekly/W07/Grok.json  on_time=True
+a023a0118e564a97d9b306f171012afe496651284cbb78e637ac3e09387cd96e  weekly/W07/Gemini.json  on_time=True
+combined 9b72c9d7487cc4e12984db5520980d399492183b755b5ebdfb1925469009d792
